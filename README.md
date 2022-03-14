@@ -51,7 +51,22 @@ Making this game has been a fun challenge.  From the coding, to the artwork(The 
 For now this game will be PC only, but overtime, if reception is well, I may port it over to phones.
 
 
-Finally, for those looking to play the game, simply run the 'Build1.1' exe. in the builds folder. Once the game starts, click, 'Begin', input a username at the top(At least 3 letters), click Enter and enjoy!
-
-Any questions, advice, feedback, or perhaps you found a bug (I know of a few), don't be afraid to email me at - Assante.waldron@gmail.com
+Finally, for those looking to play the game, simply run the 'Build1.1' installer located within the builds folder. Once the game starts, click, 'Begin', input a username at the top(At least 3 letters), click Enter and enjoy!
+_________________________________________________________________________________________________________________________________________________________________________________
+Before I go, let's briefly discuss the battle mechanics.
+While inside a battle, the game plays similarly to Rock-Paper-Scissors. Each spell has a type associated with that 'Style', (Rock-Paper-Scissors). You battle opponents, and those who cast a spell that that beats another (I.E. Rock > Scissors), will deal a bonus effect. You and your opponent will keep battling until someones Health falls below 0.
+Simple right? 
+The goal was to make a simplistic battle system, intricate and deep 'deck building'. Easy to learn, hard to master sort of thing.
+Of course this is just a surface level explanation of the spells. There are spells that summon allies, recover health, grant armor, boost damage, poison, burn, bleed etc.
+Within the demo, there are spells that grant armor,heal, deal damage, bleed and poison, grant bonus damage, and summon allies! (Burn will be introduced later).
+Furthermore, there are two ways to win a round; through Style Wins or Block Breaks. Each spell has a win type of one or the other(sometime both).
+Style win effects only trigger when you beat an opponent who used a spell type (Paper > Rock). Block break win effects only trigger against an opponent who blocks.
+Players can hold (must hold) 2 spells from each category.
+Lastly, there are the characters. Characters(Stylists) each hold their own unique passive, separating them apart from each other.
+Stylist 1, Mikhael, the one available in the demo, will gain a stack of 'The Creeping Pack' whenever you Style Win/Block Break. Every 2 stacks, Mikhael will summon a wolf ally who attacks and deals 5 damage, while bleeding x1 each round.
+Stlylist 3 for instance, instead recovers health and gains a large damage boost whenever you successfully block.
+Each Stylist is different, promoting different build/play patterns, while driving the desire to unlock them all! muahaha
+_________________________________________________________________________________________________________________________________________________________________________________
+Anyways, if anyone wants to reach me with any questions, advice, feedback, or perhaps you found a bug (I know of a few), don't be afraid to email me at - Assante.waldron@gmail.com
+Other socials coming soon.
 See you next Update!
