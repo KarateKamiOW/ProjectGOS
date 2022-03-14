@@ -3,7 +3,7 @@
 
 Hello everyone. So, let's hop right into it.
 About a year ago I tried my hand at this and well, It's a new day!
-New game, new ambitions and a tighter focus, I have a much better idea on how I want the end goal of this game to be. This is what motivates me.
+New game, new ambitions and a tighter focus, I have a much better idea on how I want the end goal for this game to be. This is what motivates me.
 Project GOS is a solo project I've been working on since September 1st, and today I've decided to share the progress I've achieved so far.
 Created in Unity using C#, and pixel art, I bring to you all(or few), my first, pre-alpha demo!
 Without further ado, let's talk about what the game is about!
@@ -35,6 +35,7 @@ In Battle Spell Descriptions - While in battle, an image displaying the casted s
 The Town. Also already done; some NPCs just need to be given their functionality.
 More Spells!
 Relics. (Items that give characters a secondary passive effect)
+More levels. (Level Select UI is complete. More levels coming soon!)
 
 _________________________________________________________________________________________________________________________________________________________________________________
 What's coming Later
