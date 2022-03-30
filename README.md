@@ -14,6 +14,7 @@ Collect lore pages and learn about the history of the world. Cook meals to sell 
 And of course more that will slowly be revealed in time. Quite ambitious, but I'm happy to say I have a lot accomplished so far. So let's talk about what's in the demo, and whats coming next.
 
 Demo Build 1.2
+___________________________________________________________________________________________________________________________________________________
 
 And I'm back, two weeks later to share today a new build!
 So, without further ado, let's discuss what's been added over the past two weeks.
@@ -49,6 +50,9 @@ A good two weeks if I say so myself! Build 1.2 will be up shortly after this rea
 In other news. I've been grinding tirelessly getting the game to a decent state as well as preparing social media pages. I've also been struggling with the music part a bit, only because my girlfriend broke my Midi Keyboard and all of my musical talents leaned heavily on that thing. I miss you babes(My Midi). And since I'm broke, replacing it has been put on pause. I'm preparing the Tiktoks with the music I have now. But uhhh, yea, promoting wooo. Very fun stuff this is.
 
 See yall in 2
+
+
+
 
 
 
