@@ -13,7 +13,7 @@ Delve in dungeons, unlock new characters to battle with, and battle others onlin
 Collect lore pages and learn about the history of the world. Cook meals to sell for money, or eat to boost your health. Fish and mine for resources to upgrade facilities for idle gains.
 And of course more that will slowly be revealed in time. Quite ambitious, but I'm happy to say I have a lot accomplished so far. So let's talk about what's in the demo, and whats coming next.
 
-Demo Build 1.2
+
 ___________________________________________________________________________________________________________________________________________________
 Demo Build 1.2
 
