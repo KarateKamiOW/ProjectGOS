@@ -14,7 +14,45 @@ Collect lore pages and learn about the history of the world. Cook meals to sell 
 And of course more that will slowly be revealed in time. Quite ambitious, but I'm happy to say I have a lot accomplished so far. So let's talk about what's in the demo, and whats coming next.
 
 Demo Build 1.2
+
 And I'm back, two weeks later to share today a new build!
+So, without further ado, let's discuss what's been added over the past two weeks.
+First things first, I've updated the 'hub' with a screenshots folder!
+Want to skip the game? Maybe just a peek at what the game looks like? Take a look at the Screenshots folder!
+(All sprites and artwork done by muah).
+
+Anyways, onto what's new
+-New Storage system! Players can now store extra items inside a storage back at the town(base).
+-Storage handles up to 4 items and 10000 Solcs(In game currency). Future builds will have upgrade options.
+-New 'Dump' System! Toss away unwanted items and acquire your Solcs based on the items and the amount tossed.
+-This is essentially an NPC for selling items.
+-Both new systems tied to the new Main Quest, "In Unison".
+-This is the only new quest for now. Many more in future builds!
+-Press the 'Q' Button to view quest progress.
+-New Character Select! 
+-Now that the character select is finished, players can now select up to 5 playable characters!
+-Each character comes equipped with a unique passive. As more spells are released, more build paths will spawn.
+-New Map!
+-Tied to new quest. Build 1.2 features a new map!
+-Many new Interactables. Each map will feature something new. As to not spoil it, you can see some previews of the new map in the Screenshots folder!
+-New Enemies and drops. (Inside new map).
+-Revamped Battle system look. (Polishing!)
+
+A good two weeks if I say so myself! Build 1.2 will be up shortly after this readme is updated. As for B1.3 in approximately 2 weeks from today, you can look forward to:
+-New Spells
+-New Lore Section
+-Relic Items
+-Shops
+-New Map
++More
+
+In other news. I've been grinding tirelessly getting the game to a decent state as well as preparing social media pages. I've also been struggling with the music part a bit, only because my girlfriend broke my Midi Keyboard and all of my musical talents leaned heavily on that thing. I miss you babes(My Midi). And since I'm broke, replacing it has been put on pause. I'm preparing the Tiktoks with the music I have now. But uhhh, yea, promoting wooo. Very fun stuff this is.
+
+See yall in 2
+
+
+
+
 
 Demo Build 1
 ___________________________________________________________________________________________________________________________________________________
