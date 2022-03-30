@@ -15,6 +15,7 @@ And of course more that will slowly be revealed in time. Quite ambitious, but I'
 
 Demo Build 1.2
 ___________________________________________________________________________________________________________________________________________________
+Demo Build 1.2
 
 And I'm back, two weeks later to share today a new build!
 So, without further ado, let's discuss what's been added over the past two weeks.
@@ -55,11 +56,9 @@ See yall in 2
 
 
 
-
-
-
-Demo Build 1
 ___________________________________________________________________________________________________________________________________________________
+Demo Build 1
+
 Build 1 only contains 1 level without sound. Lighting and sprites will continue to improve over time. 
 Dialog between player and NPCs are available. Dialog choices are available, however for the tutorial level, will remain relatively limited.
 Only 1 character. (More are done and ready, I just need to make a character select menu).
