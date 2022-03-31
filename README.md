@@ -17,6 +17,8 @@ And of course more that will slowly be revealed in time. Quite ambitious, but I'
 ___________________________________________________________________________________________________________________________________________________
 Demo Build 1.2
 
+EDIT: Build 1.1 is broken and I'll probably remove it. 1.2 Should be working.
+
 And I'm back, two weeks later to share today a new build!
 So, without further ado, let's discuss what's been added over the past two weeks.
 First things first, I've updated the 'hub' with a screenshots folder!
@@ -38,7 +40,9 @@ Anyways, onto what's new
 
 -Press the 'Q' Button to view quest progress.
 
--New Character Select! 
+-New Character Select! While in a town, press the 'G' Key to open up the Character Select.
+
+-All characters are available in build 1.2. Character Select is only available while inside a town.
 
 -Now that the character select is finished, players can now select up to 5 playable characters!
 
