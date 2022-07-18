@@ -1,5 +1,11 @@
 # ProjectGOS
-
+Demo Build 1.9
+Oh hey, been a while. I'll keep this short, I've been uploading all of the usual game updates on Itch.io, I'm simply going to keep some code samples here
+Builds 1.3-1.9 are all on there, so you can see the biweekly progress there! (Install links fully functional as well).
+My Build 2.0 is expected in 3 weeks, my biggest update yet!
+This will be the last time I post updates here.
+https://karatekamiow.itch.io/project-gos
+___________________________________________________________________________________________________________________________________________________
 
 Hello everyone. So, let's hop right into it.
 About a year ago I tried my hand at this and well, It's a new day!
